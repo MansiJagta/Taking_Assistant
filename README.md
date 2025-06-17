@@ -1,2 +1,2 @@
 # Talking_Assistant
-Aleexa like Taking assistant, Uptill now includes only few features but will try to inprove it further.
+Taking assistant similar to ALEXA, Uptill now it includes only few features but will try to inprove it further.
